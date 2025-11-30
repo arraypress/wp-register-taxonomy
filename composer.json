@@ -19,7 +19,7 @@
       "ArrayPress\\WP\\RegisterTaxonomy\\": "src/"
     },
     "files": [
-      "src/Functions.php"
+      "src/Utilities/Functions.php"
     ]
   },
   "config": {
